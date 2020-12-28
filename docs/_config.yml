@@ -16,10 +16,10 @@
 title: Ho Dinh Tan
 email: hodinhtan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  my blog
+  Welcome
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: hodinhtan
+
 github_username:  hodinhtan
 facebook_username: tanho91
 
