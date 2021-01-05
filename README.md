@@ -1,1 +1,1 @@
-test
+[link to](https://smartcube.ml)
