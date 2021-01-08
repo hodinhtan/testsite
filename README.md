@@ -1,1 +1,1 @@
-[link to](https://smartcube.ml)
+[link to](https://hodinhtan.github.io)
